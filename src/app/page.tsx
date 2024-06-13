@@ -1,6 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 import { db } from "../server/db/index";
 
+export const dynamic = "force-dynamic";
+
 const mockUrls = [
   "https://utfs.io/f/4652a8a4-c411-4408-a726-9e1101f663c3-fxmm2v.jpg",
   "https://utfs.io/f/09864d97-81bb-4b93-a3f0-928ef730eb2c-idurez.jpg",
