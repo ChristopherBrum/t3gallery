@@ -1,10 +1,10 @@
 # T3 Gallery
 
-- [X] Make it deploy
-- [X] Scaffold basic ui with mock data
-- [X] Tidy up build process
-- [ ] Actually set up database
-- [ ] Attach Database to UI
+- [x] Make it deploy
+- [x] Scaffold basic ui with mock data
+- [x] Tidy up build process
+- [x] Actually set up database
+- [x] Attach Database to UI
 - [ ] Add Authentication
 - [ ] Add image upload
 - [ ] Error management
