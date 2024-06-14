@@ -7,8 +7,10 @@
 - [x] Attach Database to UI
 - [x] Add Authentication
 - [ ] Add image upload
+- [ ] "taint" (server only)
 - [ ] Error management
 - [ ] Routing/ image page
 - [ ] Delete Button
 - [ ] Analytics
 - [ ] Ratelimiting
+ 
