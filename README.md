@@ -8,7 +8,7 @@
 - [x] Add Authentication
 - [ ] Add image upload
 - [ ] "taint" (server only)
-- [ ] Uswe Next/Image component
+- [ ] Use Next/Image component
 - [ ] Error management
 - [ ] Routing/ image page
 - [ ] Delete Button
